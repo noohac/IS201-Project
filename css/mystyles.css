@@ -1,0 +1,35 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(91, 39, 0);
+    background-color: rgb(177, 177, 177);
+  }
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: rgb(8, 53, 6);
+    font-weight: bold
+}
+
+
+.myDiv {
+  border: 2px outset rgb(85, 85, 85);
+  background-color: rgb(200, 200, 200);    
+}
+
+.div2{
+  border: 5px outset rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);    
+}
+
+.div3{
+  border: 1px outset rgb(255, 0, 0);
+  background-color: rgb(37, 37, 37);    
+}
+
+.p2font{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+}
